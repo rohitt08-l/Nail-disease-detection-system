@@ -52,6 +52,9 @@ nail-disease-detection/
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
+## 📥 Model & Dataset
+Download model: https://drive.google.com/file/d/1Vs7AgzN4mJfBYfLYhNXF7AAROq9SPCz1/view?usp=sharing
+Download dataset: https://drive.google.com/drive/folders/1vQlPB_a31Ad4wLNQDnJLmK8DagXBcHeG?usp=sharing
 
 ### Steps
 
